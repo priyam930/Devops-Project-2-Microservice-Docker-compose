@@ -122,4 +122,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📬 Connect with Me
 
 - 🌐 Portfolio: [priyam-sanodiya.netlify.app](https://priyam-sanodiya.netlify.app/)
-- 💼 LinkedIn: [linkedin.com/in/priyamsanodiya](https://www.linkedin.com/in/priyamsanodiya/)
+- 💼 LinkedIn: [linkedin.com/in/priyamsanodiya](https://www.linkedin.com/in/priyam-sanodiya/)
